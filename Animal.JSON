@@ -1,0 +1,20 @@
+
+ [
+    {
+      "Name": "Polar Bear",
+      "Aggression": "High"
+      
+    },
+    {
+        "Name": "Giraffe",
+        "Aggression": "Low"
+   },
+   {
+    "Name": "Boar",
+    "Aggression": "High"
+   },
+   {
+    "Name": "Cow",
+    "Aggression": "Low"
+   }
+ ]
